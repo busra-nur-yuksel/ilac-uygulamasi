@@ -5,7 +5,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## Project Links
 YouTube Shorts: https://www.youtube.com/shorts/KCCchXyNjjo
 
-GitHub Repository: https://github.com/busra-nur-yuksel/ilac-uygulamasi
+APK file: https://github.com/busra-nur-yuksel/ilac-uygulamasi/blob/main/application-bda53c46-0d26-47c7-aa62-2289b6b0d936.apk
 
 ## Get started
 
